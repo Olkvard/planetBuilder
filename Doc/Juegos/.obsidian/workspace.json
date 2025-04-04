@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d3ec64cac4dbcc71",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b8de5c826fd7ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c803d847a19e03bb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": -15,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9e136c56c66308f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b5b4fbfa2bffc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8917ad4ea9aac5c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0cd7563b8fe7b007",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c705db1907ab457e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b015505dd5652c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de8895ed1de879d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7d9bed9b837981",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sin título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
+            }
+          },
+          {
+            "id": "7683f217c81f5b3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sin título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
+            }
+          },
+          {
+            "id": "9f1d1af19e9a596b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d395ae8934d1ce41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "floating": {
+    "id": "22b1b0d3df7c9b1f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "af5ec529ddba6022",
+        "type": "window",
+        "children": [
+          {
+            "id": "42576699c59d47ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53c3854836b8bc76",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2416,
+        "y": -334,
+        "width": 829,
+        "height": 667,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "53c3854836b8bc76",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "planetBuilder/Doc",
+    "planetBuilder",
+    "Nueva carpeta",
+    "Edificios.md",
+    "Planeta Inicial.md",
+    "Recursos.md",
+    "Clima.md",
+    "Clima Helado.md",
+    "Clima Desértico.md",
+    "Clima Tropical.md",
+    "Bienvenido.md"
+  ]
+}

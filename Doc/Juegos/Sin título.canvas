@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"84b8f07eb400a74d","x":-400,"y":-40,"width":120,"height":50,"type":"text","text":"Inicio"},
+		{"id":"d0e10e0329009db8","x":-120,"y":-160,"width":100,"height":50,"type":"text","text":"Mina"},
+		{"id":"db20a1bb8f11722e","type":"text","text":"Planta de carbón","x":-140,"y":-45,"width":140,"height":60},
+		{"id":"b432a7eb8718b6bc","type":"text","text":"Mina","x":-120,"y":80,"width":100,"height":50}
+	],
+	"edges":[
+		{"id":"98dcc39b40df7ca0","fromNode":"84b8f07eb400a74d","fromSide":"right","toNode":"d0e10e0329009db8","toSide":"left"},
+		{"id":"929fb7a687073c49","fromNode":"84b8f07eb400a74d","fromSide":"right","toNode":"db20a1bb8f11722e","toSide":"left"},
+		{"id":"00e8660c3c04f389","fromNode":"84b8f07eb400a74d","fromSide":"right","toNode":"b432a7eb8718b6bc","toSide":"left"}
+	]
+}

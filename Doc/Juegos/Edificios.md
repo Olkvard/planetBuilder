@@ -1,0 +1,1 @@
+Se empezarán con edificios simples y más adelante se generarán edificios más complejos
