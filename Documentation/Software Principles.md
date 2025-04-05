@@ -1,0 +1,6 @@
+- all code and comments MUST be in ENGLISH
+- we will use TDD (test driven development). We first code test, watch it fail, and then the feature
+- Nothing that doesnt pass all test shall be uploaded to production
+- ALL strings that are used in the frontend shall be LOCALIZED (translated 
+- trunk based (only one branch!)
+- we shall make PULL -REBASE before any push

@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8de5c826fd7ef3",
+        "id": "5f32bb8893407cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "c803d847a19e03bb",
+            "id": "cd3cbc23772ec1f5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.canvas",
-                "viewState": {
-                  "x": -200,
-                  "y": -15,
-                  "zoom": 0
-                }
+                "file": "Software Principles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "Software Principles"
             }
           }
         ]
@@ -47,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -163,12 +160,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "floating": {
@@ -190,7 +187,7 @@
                   "type": "graph",
                   "state": {},
                   "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
+                  "title": "Graph view"
                 }
               }
             ]
@@ -198,26 +195,32 @@
         ],
         "direction": "vertical",
         "x": 2416,
-        "y": -334,
-        "width": 829,
-        "height": 667,
+        "y": -335,
+        "width": 1024,
+        "height": 803,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "53c3854836b8bc76",
+  "active": "cd3cbc23772ec1f5",
   "lastOpenFiles": [
+    "Arquitectura software.canvas",
+    "Software Principles.md",
     "Sin título.canvas",
+    "Recursos.md",
+    "Madera.md",
+    "Piedra.md",
+    "Planeta Inicial.md",
+    "Lineas de investigación.canvas",
+    "Edificios.md",
+    "Clima Helado.md",
+    "Clima.md",
+    "2025-04-05.md",
+    "Clima Desértico.md",
     "planetBuilder/Doc",
     "planetBuilder",
     "Nueva carpeta",
-    "Edificios.md",
-    "Planeta Inicial.md",
-    "Recursos.md",
-    "Clima.md",
-    "Clima Helado.md",
-    "Clima Desértico.md",
     "Clima Tropical.md",
     "Bienvenido.md"
   ]
