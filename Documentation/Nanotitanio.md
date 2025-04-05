@@ -1,0 +1,1 @@
+Un metal super ligero utilizado para fabricar a los robots mineros

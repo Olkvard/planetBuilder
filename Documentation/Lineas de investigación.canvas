@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"99dbd069a1815752","x":-460,"y":-40,"width":105,"height":50,"type":"text","text":"Inicio"},
+		{"id":"b07ce1e32704704d","x":-125,"y":-30,"width":185,"height":50,"type":"text","text":"Central de Fisión"}
+	],
+	"edges":[]
+}

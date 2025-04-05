@@ -1,0 +1,1 @@
+Es un tipo de material utilizado para múltiples fines, en algunos casos no será necesario emplear un tipo específico de metal y cualquiera bastará

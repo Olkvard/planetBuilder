@@ -1,0 +1,3 @@
+El Siderion es un material similar al hormigón pero con capacidades regeneradoras, este material cuenta con unas bacterias cuyos excrementos se fusionan con el siderion y lo refuerzan, además de recubrir sus grietas.
+
+Para recubrir estas grietas el siderion debe ser tratado mediante calor extremo, cuando alcanza una temperatura clave, se añaden las bacterias a la mezcla y antes de enfriarse debe otorgársele la forma final, una vez se enfría el siderion y sus bacterias intentarán mantener dicha forma para siempre.

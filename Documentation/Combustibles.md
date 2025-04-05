@@ -1,0 +1,1 @@
+Estos materiales se utilizan para extraer la energía de ellos en plantas especializadas

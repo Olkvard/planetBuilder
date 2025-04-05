@@ -1,16 +1,19 @@
 Los recursos se dividen en dos categorías:
+#### [[Metal]] 
+[[Acero blindado]]
+[[TRFC]]
+[[Siderion]]
+[[Nanotitanio]]
+[[Nebulita]]
 
-### Recursos Naturales
+#### [[Combustibles]]
+[[Uranio]]
+[[Helio-3]]
+[[Núcleo estelar]]
+[[Singularidad Gravitatoria]]
 
-[[Madera]]
-[[Piedra]]
-[[Hierro]]
-[[Acero]]
-[[Aluminio]]
-[[Vidrio]]
-[[Bambú]]
-[[Cerámica]]
-[[Cobre]]
+#### [[Vidrio]]
+
 
 ### Recursos Especiales
 

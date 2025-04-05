@@ -1,0 +1,3 @@
+Un tipo especial de acero reforzado con varias capas finas de acero de 15 nm de grosor y separadas entre si por 5 nm de aire.
+
+Se trata de un metal muy resistente a golpes y temblores, pero debido a la alta cantidad de acero que contiene se trata de un metal muy pesado, por ello se utiliza sobre todo en situaciones militares, para vehículos como tanques reforzados o para edificios de refugio de civiles.

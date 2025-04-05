@@ -1,0 +1,1 @@
+Se obtiene la singularidad de un agujero negro permitiendo extraer la energía directamente por el campo gravitatorio que genera la singularidad, alcanzar esta singularidad es tremendamente complicado y otorga infinita energía 

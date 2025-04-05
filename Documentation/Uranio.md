@@ -1,0 +1,1 @@
+Material inicial para obtener energía, disponible en todos los planetas y refinable en las plantas nucleares.
