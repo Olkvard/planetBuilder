@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases/Planet archetipes.md",
+                "file": "Clases/🪐Planet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planet archetipes"
+              "title": "🪐Planet"
             }
           }
         ]
@@ -170,16 +170,16 @@
   },
   "active": "3b7d1175fadf1b4f",
   "lastOpenFiles": [
-    "Clases/Enum PlanetType.md",
+    "Clases/Enum GeotermicLevel.md",
     "Clases/Planet archetipes.md",
-    "Clases/Enum Climate.md",
     "Clases/🪐Planet.md",
+    "Clases/Clases.canvas",
+    "Clases/Enum PlanetType.md",
+    "Clases/Enum Climate.md",
     "Atmosphere.md",
     "Enum VegetationColor.md",
-    "Clases/Enum GeotermicLevel.md",
     "Clases/Enum ExoticResource.md",
     "Clases/Enum AdvancedResource.md",
-    "Clases/Clases.canvas",
     "Nanotitanio.md",
     "Clima.md",
     "Clima Tropical.md",
@@ -201,7 +201,6 @@
     "Núcleo estelar.md",
     "Clases/👤User.md",
     "Clases/🌖 Moon.md",
-    "Clases",
-    "Siderion.md"
+    "Clases"
   ]
 }

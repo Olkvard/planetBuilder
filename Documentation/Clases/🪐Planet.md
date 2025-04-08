@@ -7,7 +7,12 @@ int TempMin
 int TempMax
 int HasRings
 [[Atmosphere]] Atmosphere 
-[[Enum VegetationColor]] VegetationColor
+[[Enum VegetationColor]] VegetationColor 
+[[Planet archetipes]] Archetipe
+Biome Biome
+Climate Climate
+SpecialFeature SpecialFeature
+
 
 ## RESOURCES
 
