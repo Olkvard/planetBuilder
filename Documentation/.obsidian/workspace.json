@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases/🪐Planet.md",
+                "file": "Clases/Planet archetipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪐Planet"
+              "title": "Planet archetipes"
             }
           }
         ]
@@ -170,8 +170,17 @@
   },
   "active": "3b7d1175fadf1b4f",
   "lastOpenFiles": [
-    "Clases/PlanetType.md",
+    "Clases/Enum PlanetType.md",
+    "Clases/Planet archetipes.md",
     "Clases/Enum Climate.md",
+    "Clases/🪐Planet.md",
+    "Atmosphere.md",
+    "Enum VegetationColor.md",
+    "Clases/Enum GeotermicLevel.md",
+    "Clases/Enum ExoticResource.md",
+    "Clases/Enum AdvancedResource.md",
+    "Clases/Clases.canvas",
+    "Nanotitanio.md",
     "Clima.md",
     "Clima Tropical.md",
     "Clima Desértico.md",
@@ -181,12 +190,7 @@
     "2025-04-05.md",
     "Líneas de investigación",
     "Arquitectura software.canvas",
-    "Clases/ExoticResource.md",
-    "Clases/Clases.canvas",
-    "Clases/🪐Planet.md",
     "Acero blindado.md",
-    "Clases/AdvancedResource.md",
-    "Nanotitanio.md",
     "Nebulita.md",
     "Recursos.md",
     "Edificios.md",
@@ -198,9 +202,6 @@
     "Clases/👤User.md",
     "Clases/🌖 Moon.md",
     "Clases",
-    "Siderion.md",
-    "Software Principles.md",
-    "Helio-3.md",
-    "Uranio.md"
+    "Siderion.md"
   ]
 }

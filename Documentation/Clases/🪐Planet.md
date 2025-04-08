@@ -6,6 +6,8 @@ int Diameter (1)
 int TempMin
 int TempMax
 int HasRings
+[[Atmosphere]] Atmosphere 
+[[Enum VegetationColor]] VegetationColor
 
 ## RESOURCES
 
@@ -27,7 +29,7 @@ int Deuterium
 ### Exotic Resources
 // Sólo uno de los posibles por planeta
 
-[[ExoticResource]]? ExoticResource
+[[Enum ExoticResource]]? ExoticResource
 int BaseExoticResource
 int MaxExoticResource
 int ExoticResource
@@ -36,7 +38,7 @@ int EnergyProduction
 
 ### Advanced  Resources
 // Se refinan/fabrican a partir de los básicos y exóticos 
-[[AdvancedResource]]
+[[Enum AdvancedResource]]
 
 
 ## RELATIONSHIPS
@@ -45,9 +47,9 @@ User User
 
 IEnumerable(Moon) Moons
 
-## GAMEPLAY FLAGS
+## GAMEPLAY FEATURES AND FLAGS
 
-
+[[Enum GeotermicLevel]] GeotermicLevel
 
 
 
