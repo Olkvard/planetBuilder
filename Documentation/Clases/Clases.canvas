@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3016e7351365f1fa","type":"file","file":"Clases/👤User.md","x":-420,"y":-220,"width":400,"height":400,"color":"5"},
+		{"id":"97916d90a106f0a3","type":"file","file":"Clases/🪐Planet.md","x":340,"y":-220,"width":400,"height":400,"color":"6"},
+		{"id":"fb28d8a48b082c0b","x":420,"y":-700,"width":240,"height":220,"type":"file","file":"Clases/🌖 Moon.md"}
+	],
+	"edges":[
+		{"id":"17744b80a399acc0","fromNode":"3016e7351365f1fa","fromSide":"right","toNode":"97916d90a106f0a3","toSide":"left","fromEnd":"arrow","label":"1:N"},
+		{"id":"1239839ab892c5b7","fromNode":"97916d90a106f0a3","fromSide":"top","toNode":"fb28d8a48b082c0b","toSide":"bottom","label":"0:N"}
+	]
+}
