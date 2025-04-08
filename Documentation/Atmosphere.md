@@ -7,7 +7,7 @@
 | Amarillo |             |         |
 | Verde    |             |         |
 | Rojo     |             |         |
-| Moorado  |             |         |
+| Morado   |             |         |
 
 
-Whatever buffs/debuffs
+Whatever buffs/debuffs? At first, not.

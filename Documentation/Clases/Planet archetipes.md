@@ -73,7 +73,7 @@ La suma de esas cualidades, más la atmósfera, darán lugar a un arquetipo menc
 
 La siguiente tabla asigna, para cada arquetipo, un posible valor en cada dimensión. Algunas combinaciones pueden parecer “repetitivas” en clima o tipo, pero eso refuerza la idea de que ciertos biomas solo admiten climas “coherentes”:
 
-| Arquetipo             | Tipo Base                     | Condición Climática                          | Fenómeno Especial                                   |
+| Arquetipo             | Tipo Base / Bioma             | Condición Climática                          | Fenómeno Especial                                   |
 | --------------------- | ----------------------------- | -------------------------------------------- | --------------------------------------------------- |
 | **Desierto**          | Desert                        | Arid (Neutral)                               | None                                                |
 | **Helado**            | Desert                        | Frozen                                       | (Posible presencia de cristales looteables)         |
